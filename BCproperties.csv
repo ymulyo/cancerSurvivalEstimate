@@ -1,0 +1,2 @@
+,control,year_of_birth,race,ethnicity,tumor_stage,days_to_last_follow_up,simple_somatic_mutations,genes_with_simple_somatic_mutations
+0,"['10', ""'mae'"", '10', '2', 'True', '1']","['10', ""'mse'"", 'None', '2', 'True', '1']","['10', ""'mse'"", '10', '2', 'True', '1']","['10', ""'mae'"", 'None', '2', 'False', '1']","['100', ""'mae'"", '20', '2', 'False', '1']","['10', ""'mse'"", 'None', '2', 'False', '1']","['10', ""'mae'"", 'None', '2', 'False', '1']","['100', ""'mae'"", '10', '2', 'False', '1']"
